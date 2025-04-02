@@ -52,11 +52,6 @@ To use or modify this project, ensure you have:
 
 ![dashboard_screenshot](https://github.com/user-attachments/assets/3240e850-7272-4438-a817-ab54438abf6f)
 
-
-## 📜 License
-
-This project is licensed under the **MIT License** – feel free to use and modify it.
-
 ## 🔗 Contact
  📧 Email: (mailto\:snehaah13@gmail.com)
   
