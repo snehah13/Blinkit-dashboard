@@ -58,11 +58,11 @@ To use or modify this project, ensure you have:
 This project is licensed under the **MIT License** – feel free to use and modify it.
 
 ## 🔗 Contact
-
-For any questions or collaborations, reach out via:
-
-- 📧 Email: (mailto\:snehaah13@gmail.com)
-
+ 📧 Email: (mailto\:snehaah13@gmail.com)
+  
+## Author
+sneha H
+GitHub: snehah13
 
 ---
 
