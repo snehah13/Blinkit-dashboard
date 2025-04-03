@@ -58,7 +58,10 @@ To use or modify this project, ensure you have:
 ## Author
 sneha H
 GitHub: snehah13
+---
 
+## 📜 License
+This project is licensed under the **MIT License**. Feel free to modify and use it!
 ---
 
 
